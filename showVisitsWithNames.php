@@ -16,6 +16,9 @@
                 <th>Visit Time</th>
                 <th>Firstname</th>
                 <th>Surname</th>
+                <th>Dr Firstname</th>
+                <th>Dr Surname</th>
+                <th>Specialist</th>
               </tr>
             </thead>
             <tbody>
