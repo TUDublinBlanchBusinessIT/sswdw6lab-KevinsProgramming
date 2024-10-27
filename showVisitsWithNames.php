@@ -18,7 +18,7 @@
                 <th>Surname</th>
                 <th>Dr Firstname</th>
                 <th>Dr Surname</th>
-                <th>Specialist</th>
+                <th>Specialism</th>
               </tr>
             </thead>
             <tbody>
